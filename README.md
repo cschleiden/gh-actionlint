@@ -8,17 +8,19 @@ Install the [GitHub CLI](https://docs.github.com/en/github-cli/github-cli/quicks
 ### Install
 
 ```bash
-gh extension install https://github.com/cschleiden/gh-actionlint
+$ gh extension install https://github.com/cschleiden/gh-actionlint
 ```
 
 ### Usage
 
+Just execute in your repository containing your workflow files:
+
 ```bash
-gh actionlint
+$ gh actionlint
 ```
 
 ### Uninstalll
 
 ```bash
-gh extension remove actionlint
+$ gh extension remove actionlint
 ```
