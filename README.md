@@ -19,7 +19,7 @@ Just execute in your repository containing your workflow files:
 $ gh actionlint
 ```
 
-### Uninstalll
+### Uninstall
 
 ```bash
 $ gh extension remove actionlint
